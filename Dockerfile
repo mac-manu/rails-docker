@@ -1,4 +1,5 @@
-FROM ruby
+FROM ruby:alpine
+#FROM ruby
 
 WORKDIR /home/app
 
